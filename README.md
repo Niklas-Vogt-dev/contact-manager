@@ -29,6 +29,7 @@ contact-manager/
 ├── contacts.txt
 ├── .gitignore
 └── README.md
+```
 
 ### `main.c`
 
