@@ -35,7 +35,7 @@ int main(void)
 
     int end = 0;
     while (end == 0) {
-        printf("===== CONTACT MANAGER =====\n");
+        printf("===== CONTACT MANAGER v1.0 =====\n");
         printf("\n");
 
         printf("1. Kontakte anzeigen\n");
